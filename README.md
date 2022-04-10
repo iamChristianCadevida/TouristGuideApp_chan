@@ -1,8 +1,8 @@
 Project Details : Implementation of OpenweatherMap API, Foursquare API and GeoApify API for Application design for Tourists.
 
-Part I: Backend Development
-   Requirements: 1. Implement OpenweatherMap API to forecast weather for specified location
-                  2. Implement GeoApify and Foursquare to suggest Venues for specified location
+Part I: Backend Development<br>
+   Requirements: 1. Implement OpenweatherMap API to forecast weather for specified location<br>
+                  2. Implement GeoApify and Foursquare to suggest Venues for specified location<br>
                   
    Implementation:
                  1. Laravel Framework
